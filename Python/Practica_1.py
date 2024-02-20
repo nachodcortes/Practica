@@ -11,4 +11,4 @@ for i in range(3):
 print("\nEdades durante el año en curso:")
 for nombre, anio_nacimiento in personas:
     edad = anio_actual - anio_nacimiento
-    print("{nombre} cumplirá {edad} años durante el año {anio_actual}.").
+    print("{nombre} cumplirá {edad} años durante el año {anio_actual}.")
