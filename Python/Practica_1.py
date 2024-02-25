@@ -1,4 +1,4 @@
-anio_actual = int(input("Ingrese el año en curso: "))
+anio_actual = int(input("Ingrese el año en curso: ")).
 
 # Pedir al usuario ingresar el nombre y año de nacimiento de tres personas
 personas = []
